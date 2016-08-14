@@ -1,0 +1,27 @@
+{
+    "name": "bts/bg_bg",
+    "description": "Bulgarian language package for Magento 2.100",
+    "version": "100.0.0",
+	 "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Orbay Chakar",
+            "email": "orbay.chakar@hotmail.com",
+            # "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
