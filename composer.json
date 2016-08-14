@@ -11,10 +11,6 @@
             "homepage": "https://github.com/whitebluewalker/bts",
             "role": "Developer"
         }
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
     "require": {
         "magento/framework": "100.0.*"
     },
