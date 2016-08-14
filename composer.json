@@ -8,7 +8,7 @@
         {
             "name": "Orbay Chakar",
             "email": "orbay.chakar@hotmail.com",
-            "homepage": "https://github.com/whitebluewalker/bts",
+            # "homepage": "http://seld.be",
             "role": "Developer"
         }
     "type": "magento2-language",
